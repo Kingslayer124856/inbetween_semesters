@@ -22,6 +22,6 @@ lucky_numbers.sort()
 print(lucky_numbers)
 print(friends)
 
-# Tuples
+# Tuples [1.19.00]
 
 
