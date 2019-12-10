@@ -14,7 +14,7 @@ friends = dnd_friends.copy()
 # dnd_friends.insert(1, 'Kelly')
 # dnd_friends.remove('Saxon')
 # dnd_friends.clear()
-# dnd_friends.pop() # removes that last varible
+# dnd_friends.pop() # removes that last item
 # . reverse()
 dnd_friends.sort()
 lucky_numbers.sort()
