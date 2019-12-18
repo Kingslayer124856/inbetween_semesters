@@ -23,5 +23,7 @@ print(lucky_numbers)
 print(friends)
 
 # Tuples [1.19.00]
-
-
+coordinates = [(4, 5), (6, 7), (80, 34)]
+# tuples are inmutable, cant be edited or changed
+# coordinates[1] = 10 (TypeError: 'tuple' object does not support item assignment)
+print(coordinates[1])
