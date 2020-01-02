@@ -2,7 +2,7 @@
 Loops
 by: Cassandra King
 date: 18/12/19
-Note whenever adding, i comment everything else out
+Note: Whenever adding, i comment everything else out
 so i know its not afftecting the current working code
 """
 # While Loops
