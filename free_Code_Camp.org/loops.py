@@ -2,6 +2,8 @@
 Loops
 by: Cassandra King
 date: 18/12/19
+Note whenever adding, i comment everything else out
+so i know its not afftecting the current working code
 """
 # While Loops
 i = 1
@@ -54,3 +56,14 @@ for index in range(5):
         print("First Iteration")
     else:
         print("Not First")
+
+# 2D Lists and Nested Loops (2/1/20)
+number_grid = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [0]
+]
+for row in number_grid:
+    for col in row:
+        print(col)
