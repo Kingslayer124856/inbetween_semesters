@@ -1,3 +1,8 @@
+""""
+Multiple choice quiz
+date : 13/1/20
+Notes:
+"""
 from question import Question
 
 question_prompts = [
