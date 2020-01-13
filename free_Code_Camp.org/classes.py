@@ -8,7 +8,7 @@ Note:
 # student.py
 from student import Student
 
-student1 = Student("Jim", "Business", 3.1, False)
-student2 = Student("Pam", "Art", 2.15, True)
+student1 = Student("Jim", "Business", 3.8)
+student2 = Student("Pam", "Art", 2.15)
 
-print(student2.gpa)
+print(student1.on_honor_roll())
