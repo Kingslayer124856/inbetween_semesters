@@ -1,6 +1,7 @@
 """"
 Multiple choice quiz
 date : 13/1/20
+by: Cassandra King
 Notes:
 """
 from question import Question
